@@ -1,24 +1,22 @@
-# CLAUDE.md — Memory Boot File
-## READ THIS FIRST. EVERY SESSION.
+# CLAUDE.md — [Your Project]
+## QUICK RESTORE
+Fetch: https://raw.githubusercontent.com/YOUR-ORG/YOUR-REPO/main/CLAUDE.md
 
 ## PROJECT
-Name: 
-Owner: 
-Status: 
-
-## WHAT THIS IS
-[One paragraph about the project]
+Name: [Name]
+Mission: [One sentence]
+Status: [Phase]
 
 ## KEY DECISIONS
-- 
+- [Decision] — [Date] — [Why]
 
 ## CURRENT PRIORITIES
-1. 
-2. 
-3. 
+1. [Top priority]
+2. [Second]
 
-## HOW I WORK
-- 
+## WHAT CLAUDE SHOULD KNOW
+[Context that matters — tools, constraints, preferences, history]
 
-## TECH STACK
-- 
+## SESSION PROTOCOL
+- Start: Read this file
+- End: Write session log to logs/sessions/[date].md
