@@ -1,0 +1,15 @@
+{
+  "name": "claude-memory",
+  "version": "0.1.0",
+  "description": "Git-backed persistent memory for Claude. Your AI never forgets.",
+  "keywords": ["claude", "anthropic", "memory", "ai", "llm"],
+  "license": "MIT",
+  "type": "module",
+  "bin": { "claude-memory": "./index.js" },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^5.3.0",
+    "ora": "^7.0.1"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
